@@ -17,23 +17,23 @@ header {
 
 .cabeçalho-imagem{
 
-width: 18%;
+width: 10%;
 
 }
 .cabeçalho-lista-item{
 display: inline-block;
 margin: 0 16px;
-font-size: 24px;
+font-size: 34px;
 
 
 
 }
-.escola-imagem{
+.AP-imagem{
 width: 25%;
 
 }
 
-.escola{
+.AP{
     background-color:cadetblue;
     color: white;
     display: flex;
@@ -42,50 +42,58 @@ width: 25%;
     padding: 24px 0;
     
 }
-.escola-div-conteudo{
+.AP-div-conteudo{
 width: 35%;
 
 
 }
 
-.escola-titulo{
+.AP-titulo{
 padding: 24px 0;
 
 }
 
-.escola-texto-1{
+.AP-texto-1{
     padding: 24px o;
     font-size: 24px;
     
 }
 
-.escola-texto-2{
+.AP-texto-2{
     padding: 24px o;
     font-size: 24px;
 
 
 }
-.estudante-imagem{
-    width: 120px;
+.curso-imagem{
+    width: 320px;
 }
 
-.estudante-icone{
+.curso-icone{
     width: 24px;
 
 }
-.estudante-div{
-    text-align:center;
+.curso{
+padding: 24px;
+margin: 6px;
+font-size: 24px;
+
+
 }
-.estudante-todos{
+.curso-div{
+    text-align:center;
+    font-size: 24px;
+}
+.curso-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-    .estudante-titulo{
+    .curso-titulo{
 
     text-align:center;
     padding: 50px 0;
     }
-    .estudante-todos{
+    .curso-todos{
         display: grid;
     }
     .rodapé{
